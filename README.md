@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:2563EB,100:38BDF8&text=Guilherme%20Somensi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:064e3b,50:16a34a,100:4ade80&text=Guilherme%20Somensi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Olá, eu sou Guilherme Somensi
 
