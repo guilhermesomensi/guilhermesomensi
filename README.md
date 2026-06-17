@@ -142,6 +142,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:064e3b,50:16a34a,100:4ade80"/>
 
 ```
