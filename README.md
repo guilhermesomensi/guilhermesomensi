@@ -52,13 +52,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-### 📖 Estudando
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,linux" />
-</p>
-
 ---
 
 # 📚 Atualmente estudando
@@ -88,14 +81,10 @@
 # 📊 Estatísticas
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermesomensi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesomensi&layout=compact&theme=tokyonight"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermesomensi&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesomensi&layout=compact&theme=tokyonight&langs_count=6"/>
 </div>
 
----
 
 # 🔥 Streak
 
