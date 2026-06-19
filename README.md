@@ -58,7 +58,6 @@
 
 
 - 🌐 HTML5 e CSS3
-- ⚡ JavaScript
 - 🗄 Banco de Dados
 - 🔀 Git e GitHub
 - 📡 Redes de Computadores
